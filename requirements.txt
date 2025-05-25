@@ -1,0 +1,7 @@
+streamlit
+plotly
+pandas==1.5.3
+numpy==1.23.5
+duckdb
+sklearn
+joblib
